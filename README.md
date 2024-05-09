@@ -17,9 +17,4 @@
 * TRACKING ORDERS
 * EARNINGS MANAGEMENT
 
-## Built with
- - Dart Programing Language.
- - Flutter Framework.
- - Laravel as Backend.
- - Firebase.
 
